@@ -1,0 +1,1095 @@
+Document file - DO NOT EDIT
+
+<BEGIN> BUILD_RULE_DetectCtrl.out
+
+<END>
+
+<BEGIN> BUILD_RULE_DetectCtrl.pl
+
+<END>
+
+<BEGIN> BUILD_RULE_archive
+
+<END>
+
+<BEGIN> BUILD_RULE_objects
+
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_BUILDRULE
+DetectCtrl.out
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_AR
+arsimpc
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_ARCHIVE
+$(PRJ_DIR)/SIMNTgnu/DetectCtrl.a
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_AS
+ccsimpc
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_CC
+ccsimpc
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_CC_ARCH_SPEC
+-mpentium
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_CFLAGS
+-g \
+	-mpentium \
+	-fno-builtin \
+	-fno-defer-pop \
+	-I. \
+	-I$(WIND_BASE)/target/h/ \
+	-DCPU=SIMNT \
+	-DTOOL_FAMILY=gnu \
+	-DTOOL=gnu \
+	-Wp,-lang-C
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_CFLAGS_AS
+-g \
+	-mpentium \
+	-ansi \
+	-fno-builtin \
+	-fno-defer-pop \
+	-P \
+	-xassembler-with-cpp \
+	-I. \
+	-I$(WIND_BASE)/target/h/ \
+	-DCPU=SIMNT \
+	-DTOOL_FAMILY=gnu \
+	-DTOOL=gnu
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_CPP
+ccsimpc -E -P
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_HEX_FLAGS
+
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_LD
+ldsimpc
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_LDFLAGS
+--subsystem=windows
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_LD_PARTIAL
+ccsimpc -r -nostdlib
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_LD_PARTIAL_FLAGS
+-r
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_NM
+nmsimpc -g
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_OPTION_DEFINE_MACRO
+-D
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_OPTION_DEPEND
+-M -w
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_OPTION_GENERATE_DEPENDENCY_FILE
+-MD
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_OPTION_INCLUDE_DIR
+-I
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_OPTION_LANG_C
+-xc
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_OPTION_UNDEFINE_MACRO
+-U
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_POST_BUILD_RULE
+
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_PRJ_LIBS
+
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_SIZE
+sizesimpc
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_MACRO_TOOL_FAMILY
+gnu
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_RO_DEPEND_PATH
+{$(WIND_BASE)/target/h/} \
+	{$(WIND_BASE)/target/src/} \
+	{$(WIND_BASE)/target/config/}
+<END>
+
+<BEGIN> BUILD_SIMNTgnu_TC
+::tc_SIMNTgnu
+<END>
+
+<BEGIN> BUILD__CURRENT
+SIMNTgnu
+<END>
+
+<BEGIN> BUILD__LIST
+SIMNTgnu
+<END>
+
+<BEGIN> CORE_INFO_TYPE
+::prj_vxApp
+<END>
+
+<BEGIN> CORE_INFO_VERSION
+2.2
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectCmdMsgQCache.c_dependDone
+TRUE
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectCmdMsgQCache.c_dependencies
+$(PRJ_DIR)/../Header.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stddef.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stdarg.h \
+	$(PRJ_DIR)/../PreDefine.h \
+	$(PRJ_DIR)/../TypeDefine.h \
+	$(PRJ_DIR)/../header/DetectLogRec.h \
+	$(PRJ_DIR)/../header/ListHead.h \
+	$(PRJ_DIR)/../header/DetectSearchStruct.h \
+	$(PRJ_DIR)/../header/DetectSearchArea.h \
+	$(PRJ_DIR)/../header/DetectSearchNode.h \
+	$(PRJ_DIR)/../header/DetectScheduleAntennaNode.h \
+	$(PRJ_DIR)/../header/DetectCmdMsgQCache.h \
+	$(PRJ_DIR)/../header/DetectSearchNodeCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectSearchAreaCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectScheduleTable.h \
+	$(PRJ_DIR)/../header/DetectOnceSearchCache.h \
+	$(PRJ_DIR)/../header/DetectPeriodSearchCache.h \
+	$(PRJ_DIR)/../header/DetectCycleSearchCache.h \
+	$(PRJ_DIR)/../header/DetectSearchCmdCache.h \
+	$(PRJ_DIR)/../header/DetectSearchAntennaArea.h \
+	$(PRJ_DIR)/../header/DetectOnceSearch.h \
+	$(PRJ_DIR)/../header/DetectCycleSearch.h \
+	$(PRJ_DIR)/../header/DetectScheduleList.h \
+	$(PRJ_DIR)/../header/DetectSearchFeedBack.h \
+	$(PRJ_DIR)/../header/DetectSchedule.h \
+	$(PRJ_DIR)/../header/DetectMonitor.h \
+	$(PRJ_DIR)/../header/DetectCmdProc.h \
+	$(PRJ_DIR)/../header/DetectProc.h
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectCmdMsgQCache.c_objects
+DetectCmdMsgQCache.o
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectCmdMsgQCache.c_tool
+C/C++ compiler
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectCmdProc.c_dependDone
+TRUE
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectCmdProc.c_dependencies
+$(PRJ_DIR)/../Header.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stddef.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stdarg.h \
+	$(PRJ_DIR)/../PreDefine.h \
+	$(PRJ_DIR)/../TypeDefine.h \
+	$(PRJ_DIR)/../header/DetectLogRec.h \
+	$(PRJ_DIR)/../header/ListHead.h \
+	$(PRJ_DIR)/../header/DetectSearchStruct.h \
+	$(PRJ_DIR)/../header/DetectSearchArea.h \
+	$(PRJ_DIR)/../header/DetectSearchNode.h \
+	$(PRJ_DIR)/../header/DetectScheduleAntennaNode.h \
+	$(PRJ_DIR)/../header/DetectCmdMsgQCache.h \
+	$(PRJ_DIR)/../header/DetectSearchNodeCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectSearchAreaCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectScheduleTable.h \
+	$(PRJ_DIR)/../header/DetectOnceSearchCache.h \
+	$(PRJ_DIR)/../header/DetectPeriodSearchCache.h \
+	$(PRJ_DIR)/../header/DetectCycleSearchCache.h \
+	$(PRJ_DIR)/../header/DetectSearchCmdCache.h \
+	$(PRJ_DIR)/../header/DetectSearchAntennaArea.h \
+	$(PRJ_DIR)/../header/DetectOnceSearch.h \
+	$(PRJ_DIR)/../header/DetectCycleSearch.h \
+	$(PRJ_DIR)/../header/DetectScheduleList.h \
+	$(PRJ_DIR)/../header/DetectSearchFeedBack.h \
+	$(PRJ_DIR)/../header/DetectSchedule.h \
+	$(PRJ_DIR)/../header/DetectMonitor.h \
+	$(PRJ_DIR)/../header/DetectCmdProc.h \
+	$(PRJ_DIR)/../header/DetectProc.h
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectCmdProc.c_objects
+DetectCmdProc.o
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectCmdProc.c_tool
+C/C++ compiler
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectCycleSearch.c_dependDone
+TRUE
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectCycleSearch.c_dependencies
+$(PRJ_DIR)/../Header.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stddef.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stdarg.h \
+	$(PRJ_DIR)/../PreDefine.h \
+	$(PRJ_DIR)/../TypeDefine.h \
+	$(PRJ_DIR)/../header/DetectLogRec.h \
+	$(PRJ_DIR)/../header/ListHead.h \
+	$(PRJ_DIR)/../header/DetectSearchStruct.h \
+	$(PRJ_DIR)/../header/DetectSearchArea.h \
+	$(PRJ_DIR)/../header/DetectSearchNode.h \
+	$(PRJ_DIR)/../header/DetectScheduleAntennaNode.h \
+	$(PRJ_DIR)/../header/DetectCmdMsgQCache.h \
+	$(PRJ_DIR)/../header/DetectSearchNodeCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectSearchAreaCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectScheduleTable.h \
+	$(PRJ_DIR)/../header/DetectOnceSearchCache.h \
+	$(PRJ_DIR)/../header/DetectPeriodSearchCache.h \
+	$(PRJ_DIR)/../header/DetectCycleSearchCache.h \
+	$(PRJ_DIR)/../header/DetectSearchCmdCache.h \
+	$(PRJ_DIR)/../header/DetectSearchAntennaArea.h \
+	$(PRJ_DIR)/../header/DetectOnceSearch.h \
+	$(PRJ_DIR)/../header/DetectCycleSearch.h \
+	$(PRJ_DIR)/../header/DetectScheduleList.h \
+	$(PRJ_DIR)/../header/DetectSearchFeedBack.h \
+	$(PRJ_DIR)/../header/DetectSchedule.h \
+	$(PRJ_DIR)/../header/DetectMonitor.h \
+	$(PRJ_DIR)/../header/DetectCmdProc.h \
+	$(PRJ_DIR)/../header/DetectProc.h
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectCycleSearch.c_objects
+DetectCycleSearch.o
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectCycleSearch.c_tool
+C/C++ compiler
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectCycleSearchCache.c_dependDone
+TRUE
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectCycleSearchCache.c_dependencies
+$(PRJ_DIR)/../Header.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stddef.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stdarg.h \
+	$(PRJ_DIR)/../PreDefine.h \
+	$(PRJ_DIR)/../TypeDefine.h \
+	$(PRJ_DIR)/../header/DetectLogRec.h \
+	$(PRJ_DIR)/../header/ListHead.h \
+	$(PRJ_DIR)/../header/DetectSearchStruct.h \
+	$(PRJ_DIR)/../header/DetectSearchArea.h \
+	$(PRJ_DIR)/../header/DetectSearchNode.h \
+	$(PRJ_DIR)/../header/DetectScheduleAntennaNode.h \
+	$(PRJ_DIR)/../header/DetectCmdMsgQCache.h \
+	$(PRJ_DIR)/../header/DetectSearchNodeCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectSearchAreaCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectScheduleTable.h \
+	$(PRJ_DIR)/../header/DetectOnceSearchCache.h \
+	$(PRJ_DIR)/../header/DetectPeriodSearchCache.h \
+	$(PRJ_DIR)/../header/DetectCycleSearchCache.h \
+	$(PRJ_DIR)/../header/DetectSearchCmdCache.h \
+	$(PRJ_DIR)/../header/DetectSearchAntennaArea.h \
+	$(PRJ_DIR)/../header/DetectOnceSearch.h \
+	$(PRJ_DIR)/../header/DetectCycleSearch.h \
+	$(PRJ_DIR)/../header/DetectScheduleList.h \
+	$(PRJ_DIR)/../header/DetectSearchFeedBack.h \
+	$(PRJ_DIR)/../header/DetectSchedule.h \
+	$(PRJ_DIR)/../header/DetectMonitor.h \
+	$(PRJ_DIR)/../header/DetectCmdProc.h \
+	$(PRJ_DIR)/../header/DetectProc.h
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectCycleSearchCache.c_objects
+DetectCycleSearchCache.o
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectCycleSearchCache.c_tool
+C/C++ compiler
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectLogRec.c_dependDone
+TRUE
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectLogRec.c_dependencies
+$(PRJ_DIR)/../Header.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stddef.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stdarg.h \
+	$(PRJ_DIR)/../PreDefine.h \
+	$(PRJ_DIR)/../TypeDefine.h \
+	$(PRJ_DIR)/../header/DetectLogRec.h \
+	$(PRJ_DIR)/../header/ListHead.h \
+	$(PRJ_DIR)/../header/DetectSearchStruct.h \
+	$(PRJ_DIR)/../header/DetectSearchArea.h \
+	$(PRJ_DIR)/../header/DetectSearchNode.h \
+	$(PRJ_DIR)/../header/DetectScheduleAntennaNode.h \
+	$(PRJ_DIR)/../header/DetectCmdMsgQCache.h \
+	$(PRJ_DIR)/../header/DetectSearchNodeCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectSearchAreaCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectScheduleTable.h \
+	$(PRJ_DIR)/../header/DetectOnceSearchCache.h \
+	$(PRJ_DIR)/../header/DetectPeriodSearchCache.h \
+	$(PRJ_DIR)/../header/DetectCycleSearchCache.h \
+	$(PRJ_DIR)/../header/DetectSearchCmdCache.h \
+	$(PRJ_DIR)/../header/DetectSearchAntennaArea.h \
+	$(PRJ_DIR)/../header/DetectOnceSearch.h \
+	$(PRJ_DIR)/../header/DetectCycleSearch.h \
+	$(PRJ_DIR)/../header/DetectScheduleList.h \
+	$(PRJ_DIR)/../header/DetectSearchFeedBack.h \
+	$(PRJ_DIR)/../header/DetectSchedule.h \
+	$(PRJ_DIR)/../header/DetectMonitor.h \
+	$(PRJ_DIR)/../header/DetectCmdProc.h \
+	$(PRJ_DIR)/../header/DetectProc.h
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectLogRec.c_objects
+DetectLogRec.o
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectLogRec.c_tool
+C/C++ compiler
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectMonitor.c_dependDone
+TRUE
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectMonitor.c_dependencies
+$(PRJ_DIR)/../Header.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stddef.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stdarg.h \
+	$(PRJ_DIR)/../PreDefine.h \
+	$(PRJ_DIR)/../TypeDefine.h \
+	$(PRJ_DIR)/../header/DetectLogRec.h \
+	$(PRJ_DIR)/../header/ListHead.h \
+	$(PRJ_DIR)/../header/DetectSearchStruct.h \
+	$(PRJ_DIR)/../header/DetectSearchArea.h \
+	$(PRJ_DIR)/../header/DetectSearchNode.h \
+	$(PRJ_DIR)/../header/DetectScheduleAntennaNode.h \
+	$(PRJ_DIR)/../header/DetectCmdMsgQCache.h \
+	$(PRJ_DIR)/../header/DetectSearchNodeCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectSearchAreaCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectScheduleTable.h \
+	$(PRJ_DIR)/../header/DetectOnceSearchCache.h \
+	$(PRJ_DIR)/../header/DetectPeriodSearchCache.h \
+	$(PRJ_DIR)/../header/DetectCycleSearchCache.h \
+	$(PRJ_DIR)/../header/DetectSearchCmdCache.h \
+	$(PRJ_DIR)/../header/DetectSearchAntennaArea.h \
+	$(PRJ_DIR)/../header/DetectOnceSearch.h \
+	$(PRJ_DIR)/../header/DetectCycleSearch.h \
+	$(PRJ_DIR)/../header/DetectScheduleList.h \
+	$(PRJ_DIR)/../header/DetectSearchFeedBack.h \
+	$(PRJ_DIR)/../header/DetectSchedule.h \
+	$(PRJ_DIR)/../header/DetectMonitor.h \
+	$(PRJ_DIR)/../header/DetectCmdProc.h \
+	$(PRJ_DIR)/../header/DetectProc.h
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectMonitor.c_objects
+DetectMonitor.o
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectMonitor.c_tool
+C/C++ compiler
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectOnceSearch.c_dependDone
+TRUE
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectOnceSearch.c_dependencies
+$(PRJ_DIR)/../Header.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stddef.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stdarg.h \
+	$(PRJ_DIR)/../PreDefine.h \
+	$(PRJ_DIR)/../TypeDefine.h \
+	$(PRJ_DIR)/../header/DetectLogRec.h \
+	$(PRJ_DIR)/../header/ListHead.h \
+	$(PRJ_DIR)/../header/DetectSearchStruct.h \
+	$(PRJ_DIR)/../header/DetectSearchArea.h \
+	$(PRJ_DIR)/../header/DetectSearchNode.h \
+	$(PRJ_DIR)/../header/DetectScheduleAntennaNode.h \
+	$(PRJ_DIR)/../header/DetectCmdMsgQCache.h \
+	$(PRJ_DIR)/../header/DetectSearchNodeCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectSearchAreaCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectScheduleTable.h \
+	$(PRJ_DIR)/../header/DetectOnceSearchCache.h \
+	$(PRJ_DIR)/../header/DetectPeriodSearchCache.h \
+	$(PRJ_DIR)/../header/DetectCycleSearchCache.h \
+	$(PRJ_DIR)/../header/DetectSearchCmdCache.h \
+	$(PRJ_DIR)/../header/DetectSearchAntennaArea.h \
+	$(PRJ_DIR)/../header/DetectOnceSearch.h \
+	$(PRJ_DIR)/../header/DetectCycleSearch.h \
+	$(PRJ_DIR)/../header/DetectScheduleList.h \
+	$(PRJ_DIR)/../header/DetectSearchFeedBack.h \
+	$(PRJ_DIR)/../header/DetectSchedule.h \
+	$(PRJ_DIR)/../header/DetectMonitor.h \
+	$(PRJ_DIR)/../header/DetectCmdProc.h \
+	$(PRJ_DIR)/../header/DetectProc.h
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectOnceSearch.c_objects
+DetectOnceSearch.o
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectOnceSearch.c_tool
+C/C++ compiler
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectOnceSearchCache.c_dependDone
+TRUE
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectOnceSearchCache.c_dependencies
+$(PRJ_DIR)/../Header.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stddef.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stdarg.h \
+	$(PRJ_DIR)/../PreDefine.h \
+	$(PRJ_DIR)/../TypeDefine.h \
+	$(PRJ_DIR)/../header/DetectLogRec.h \
+	$(PRJ_DIR)/../header/ListHead.h \
+	$(PRJ_DIR)/../header/DetectSearchStruct.h \
+	$(PRJ_DIR)/../header/DetectSearchArea.h \
+	$(PRJ_DIR)/../header/DetectSearchNode.h \
+	$(PRJ_DIR)/../header/DetectScheduleAntennaNode.h \
+	$(PRJ_DIR)/../header/DetectCmdMsgQCache.h \
+	$(PRJ_DIR)/../header/DetectSearchNodeCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectSearchAreaCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectScheduleTable.h \
+	$(PRJ_DIR)/../header/DetectOnceSearchCache.h \
+	$(PRJ_DIR)/../header/DetectPeriodSearchCache.h \
+	$(PRJ_DIR)/../header/DetectCycleSearchCache.h \
+	$(PRJ_DIR)/../header/DetectSearchCmdCache.h \
+	$(PRJ_DIR)/../header/DetectSearchAntennaArea.h \
+	$(PRJ_DIR)/../header/DetectOnceSearch.h \
+	$(PRJ_DIR)/../header/DetectCycleSearch.h \
+	$(PRJ_DIR)/../header/DetectScheduleList.h \
+	$(PRJ_DIR)/../header/DetectSearchFeedBack.h \
+	$(PRJ_DIR)/../header/DetectSchedule.h \
+	$(PRJ_DIR)/../header/DetectMonitor.h \
+	$(PRJ_DIR)/../header/DetectCmdProc.h \
+	$(PRJ_DIR)/../header/DetectProc.h
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectOnceSearchCache.c_objects
+DetectOnceSearchCache.o
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectOnceSearchCache.c_tool
+C/C++ compiler
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectPeriodSearchCache.c_dependDone
+TRUE
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectPeriodSearchCache.c_dependencies
+$(PRJ_DIR)/../Header.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stddef.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stdarg.h \
+	$(PRJ_DIR)/../PreDefine.h \
+	$(PRJ_DIR)/../TypeDefine.h \
+	$(PRJ_DIR)/../header/DetectLogRec.h \
+	$(PRJ_DIR)/../header/ListHead.h \
+	$(PRJ_DIR)/../header/DetectSearchStruct.h \
+	$(PRJ_DIR)/../header/DetectSearchArea.h \
+	$(PRJ_DIR)/../header/DetectSearchNode.h \
+	$(PRJ_DIR)/../header/DetectScheduleAntennaNode.h \
+	$(PRJ_DIR)/../header/DetectCmdMsgQCache.h \
+	$(PRJ_DIR)/../header/DetectSearchNodeCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectSearchAreaCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectScheduleTable.h \
+	$(PRJ_DIR)/../header/DetectOnceSearchCache.h \
+	$(PRJ_DIR)/../header/DetectPeriodSearchCache.h \
+	$(PRJ_DIR)/../header/DetectCycleSearchCache.h \
+	$(PRJ_DIR)/../header/DetectSearchCmdCache.h \
+	$(PRJ_DIR)/../header/DetectSearchAntennaArea.h \
+	$(PRJ_DIR)/../header/DetectOnceSearch.h \
+	$(PRJ_DIR)/../header/DetectCycleSearch.h \
+	$(PRJ_DIR)/../header/DetectScheduleList.h \
+	$(PRJ_DIR)/../header/DetectSearchFeedBack.h \
+	$(PRJ_DIR)/../header/DetectSchedule.h \
+	$(PRJ_DIR)/../header/DetectMonitor.h \
+	$(PRJ_DIR)/../header/DetectCmdProc.h \
+	$(PRJ_DIR)/../header/DetectProc.h
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectPeriodSearchCache.c_objects
+DetectPeriodSearchCache.o
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectPeriodSearchCache.c_tool
+C/C++ compiler
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectProc.c_dependDone
+TRUE
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectProc.c_dependencies
+$(PRJ_DIR)/../Header.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stddef.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stdarg.h \
+	$(PRJ_DIR)/../PreDefine.h \
+	$(PRJ_DIR)/../TypeDefine.h \
+	$(PRJ_DIR)/../header/DetectLogRec.h \
+	$(PRJ_DIR)/../header/ListHead.h \
+	$(PRJ_DIR)/../header/DetectSearchStruct.h \
+	$(PRJ_DIR)/../header/DetectSearchArea.h \
+	$(PRJ_DIR)/../header/DetectSearchNode.h \
+	$(PRJ_DIR)/../header/DetectScheduleAntennaNode.h \
+	$(PRJ_DIR)/../header/DetectCmdMsgQCache.h \
+	$(PRJ_DIR)/../header/DetectSearchNodeCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectSearchAreaCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectScheduleTable.h \
+	$(PRJ_DIR)/../header/DetectOnceSearchCache.h \
+	$(PRJ_DIR)/../header/DetectPeriodSearchCache.h \
+	$(PRJ_DIR)/../header/DetectCycleSearchCache.h \
+	$(PRJ_DIR)/../header/DetectSearchCmdCache.h \
+	$(PRJ_DIR)/../header/DetectSearchAntennaArea.h \
+	$(PRJ_DIR)/../header/DetectOnceSearch.h \
+	$(PRJ_DIR)/../header/DetectCycleSearch.h \
+	$(PRJ_DIR)/../header/DetectScheduleList.h \
+	$(PRJ_DIR)/../header/DetectSearchFeedBack.h \
+	$(PRJ_DIR)/../header/DetectSchedule.h \
+	$(PRJ_DIR)/../header/DetectMonitor.h \
+	$(PRJ_DIR)/../header/DetectCmdProc.h \
+	$(PRJ_DIR)/../header/DetectProc.h
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectProc.c_objects
+DetectProc.o
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectProc.c_tool
+C/C++ compiler
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSchedule.c_dependDone
+TRUE
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSchedule.c_dependencies
+$(PRJ_DIR)/../Header.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stddef.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stdarg.h \
+	$(PRJ_DIR)/../PreDefine.h \
+	$(PRJ_DIR)/../TypeDefine.h \
+	$(PRJ_DIR)/../header/DetectLogRec.h \
+	$(PRJ_DIR)/../header/ListHead.h \
+	$(PRJ_DIR)/../header/DetectSearchStruct.h \
+	$(PRJ_DIR)/../header/DetectSearchArea.h \
+	$(PRJ_DIR)/../header/DetectSearchNode.h \
+	$(PRJ_DIR)/../header/DetectScheduleAntennaNode.h \
+	$(PRJ_DIR)/../header/DetectCmdMsgQCache.h \
+	$(PRJ_DIR)/../header/DetectSearchNodeCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectSearchAreaCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectScheduleTable.h \
+	$(PRJ_DIR)/../header/DetectOnceSearchCache.h \
+	$(PRJ_DIR)/../header/DetectPeriodSearchCache.h \
+	$(PRJ_DIR)/../header/DetectCycleSearchCache.h \
+	$(PRJ_DIR)/../header/DetectSearchCmdCache.h \
+	$(PRJ_DIR)/../header/DetectSearchAntennaArea.h \
+	$(PRJ_DIR)/../header/DetectOnceSearch.h \
+	$(PRJ_DIR)/../header/DetectCycleSearch.h \
+	$(PRJ_DIR)/../header/DetectScheduleList.h \
+	$(PRJ_DIR)/../header/DetectSearchFeedBack.h \
+	$(PRJ_DIR)/../header/DetectSchedule.h \
+	$(PRJ_DIR)/../header/DetectMonitor.h \
+	$(PRJ_DIR)/../header/DetectCmdProc.h \
+	$(PRJ_DIR)/../header/DetectProc.h
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSchedule.c_objects
+DetectSchedule.o
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSchedule.c_tool
+C/C++ compiler
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectScheduleAntennaNode.c_dependDone
+TRUE
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectScheduleAntennaNode.c_dependencies
+$(PRJ_DIR)/../Header.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stddef.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stdarg.h \
+	$(PRJ_DIR)/../PreDefine.h \
+	$(PRJ_DIR)/../TypeDefine.h \
+	$(PRJ_DIR)/../header/DetectLogRec.h \
+	$(PRJ_DIR)/../header/ListHead.h \
+	$(PRJ_DIR)/../header/DetectSearchStruct.h \
+	$(PRJ_DIR)/../header/DetectSearchArea.h \
+	$(PRJ_DIR)/../header/DetectSearchNode.h \
+	$(PRJ_DIR)/../header/DetectScheduleAntennaNode.h \
+	$(PRJ_DIR)/../header/DetectCmdMsgQCache.h \
+	$(PRJ_DIR)/../header/DetectSearchNodeCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectSearchAreaCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectScheduleTable.h \
+	$(PRJ_DIR)/../header/DetectOnceSearchCache.h \
+	$(PRJ_DIR)/../header/DetectPeriodSearchCache.h \
+	$(PRJ_DIR)/../header/DetectCycleSearchCache.h \
+	$(PRJ_DIR)/../header/DetectSearchCmdCache.h \
+	$(PRJ_DIR)/../header/DetectSearchAntennaArea.h \
+	$(PRJ_DIR)/../header/DetectOnceSearch.h \
+	$(PRJ_DIR)/../header/DetectCycleSearch.h \
+	$(PRJ_DIR)/../header/DetectScheduleList.h \
+	$(PRJ_DIR)/../header/DetectSearchFeedBack.h \
+	$(PRJ_DIR)/../header/DetectSchedule.h \
+	$(PRJ_DIR)/../header/DetectMonitor.h \
+	$(PRJ_DIR)/../header/DetectCmdProc.h \
+	$(PRJ_DIR)/../header/DetectProc.h
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectScheduleAntennaNode.c_objects
+DetectScheduleAntennaNode.o
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectScheduleAntennaNode.c_tool
+C/C++ compiler
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectScheduleList.c_dependDone
+TRUE
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectScheduleList.c_dependencies
+$(PRJ_DIR)/../Header.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stddef.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stdarg.h \
+	$(PRJ_DIR)/../PreDefine.h \
+	$(PRJ_DIR)/../TypeDefine.h \
+	$(PRJ_DIR)/../header/DetectLogRec.h \
+	$(PRJ_DIR)/../header/ListHead.h \
+	$(PRJ_DIR)/../header/DetectSearchStruct.h \
+	$(PRJ_DIR)/../header/DetectSearchArea.h \
+	$(PRJ_DIR)/../header/DetectSearchNode.h \
+	$(PRJ_DIR)/../header/DetectScheduleAntennaNode.h \
+	$(PRJ_DIR)/../header/DetectCmdMsgQCache.h \
+	$(PRJ_DIR)/../header/DetectSearchNodeCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectSearchAreaCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectScheduleTable.h \
+	$(PRJ_DIR)/../header/DetectOnceSearchCache.h \
+	$(PRJ_DIR)/../header/DetectPeriodSearchCache.h \
+	$(PRJ_DIR)/../header/DetectCycleSearchCache.h \
+	$(PRJ_DIR)/../header/DetectSearchCmdCache.h \
+	$(PRJ_DIR)/../header/DetectSearchAntennaArea.h \
+	$(PRJ_DIR)/../header/DetectOnceSearch.h \
+	$(PRJ_DIR)/../header/DetectCycleSearch.h \
+	$(PRJ_DIR)/../header/DetectScheduleList.h \
+	$(PRJ_DIR)/../header/DetectSearchFeedBack.h \
+	$(PRJ_DIR)/../header/DetectSchedule.h \
+	$(PRJ_DIR)/../header/DetectMonitor.h \
+	$(PRJ_DIR)/../header/DetectCmdProc.h \
+	$(PRJ_DIR)/../header/DetectProc.h
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectScheduleList.c_objects
+DetectScheduleList.o
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectScheduleList.c_tool
+C/C++ compiler
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectScheduleTable.c_dependDone
+TRUE
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectScheduleTable.c_dependencies
+$(PRJ_DIR)/../Header.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stddef.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stdarg.h \
+	$(PRJ_DIR)/../PreDefine.h \
+	$(PRJ_DIR)/../TypeDefine.h \
+	$(PRJ_DIR)/../header/DetectLogRec.h \
+	$(PRJ_DIR)/../header/ListHead.h \
+	$(PRJ_DIR)/../header/DetectSearchStruct.h \
+	$(PRJ_DIR)/../header/DetectSearchArea.h \
+	$(PRJ_DIR)/../header/DetectSearchNode.h \
+	$(PRJ_DIR)/../header/DetectScheduleAntennaNode.h \
+	$(PRJ_DIR)/../header/DetectCmdMsgQCache.h \
+	$(PRJ_DIR)/../header/DetectSearchNodeCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectSearchAreaCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectScheduleTable.h \
+	$(PRJ_DIR)/../header/DetectOnceSearchCache.h \
+	$(PRJ_DIR)/../header/DetectPeriodSearchCache.h \
+	$(PRJ_DIR)/../header/DetectCycleSearchCache.h \
+	$(PRJ_DIR)/../header/DetectSearchCmdCache.h \
+	$(PRJ_DIR)/../header/DetectSearchAntennaArea.h \
+	$(PRJ_DIR)/../header/DetectOnceSearch.h \
+	$(PRJ_DIR)/../header/DetectCycleSearch.h \
+	$(PRJ_DIR)/../header/DetectScheduleList.h \
+	$(PRJ_DIR)/../header/DetectSearchFeedBack.h \
+	$(PRJ_DIR)/../header/DetectSchedule.h \
+	$(PRJ_DIR)/../header/DetectMonitor.h \
+	$(PRJ_DIR)/../header/DetectCmdProc.h \
+	$(PRJ_DIR)/../header/DetectProc.h
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectScheduleTable.c_objects
+DetectScheduleTable.o
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectScheduleTable.c_tool
+C/C++ compiler
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchAntennaArea.c_dependDone
+TRUE
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchAntennaArea.c_dependencies
+$(PRJ_DIR)/../Header.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stddef.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stdarg.h \
+	$(PRJ_DIR)/../PreDefine.h \
+	$(PRJ_DIR)/../TypeDefine.h \
+	$(PRJ_DIR)/../header/DetectLogRec.h \
+	$(PRJ_DIR)/../header/ListHead.h \
+	$(PRJ_DIR)/../header/DetectSearchStruct.h \
+	$(PRJ_DIR)/../header/DetectSearchArea.h \
+	$(PRJ_DIR)/../header/DetectSearchNode.h \
+	$(PRJ_DIR)/../header/DetectScheduleAntennaNode.h \
+	$(PRJ_DIR)/../header/DetectCmdMsgQCache.h \
+	$(PRJ_DIR)/../header/DetectSearchNodeCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectSearchAreaCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectScheduleTable.h \
+	$(PRJ_DIR)/../header/DetectOnceSearchCache.h \
+	$(PRJ_DIR)/../header/DetectPeriodSearchCache.h \
+	$(PRJ_DIR)/../header/DetectCycleSearchCache.h \
+	$(PRJ_DIR)/../header/DetectSearchCmdCache.h \
+	$(PRJ_DIR)/../header/DetectSearchAntennaArea.h \
+	$(PRJ_DIR)/../header/DetectOnceSearch.h \
+	$(PRJ_DIR)/../header/DetectCycleSearch.h \
+	$(PRJ_DIR)/../header/DetectScheduleList.h \
+	$(PRJ_DIR)/../header/DetectSearchFeedBack.h \
+	$(PRJ_DIR)/../header/DetectSchedule.h \
+	$(PRJ_DIR)/../header/DetectMonitor.h \
+	$(PRJ_DIR)/../header/DetectCmdProc.h \
+	$(PRJ_DIR)/../header/DetectProc.h
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchAntennaArea.c_objects
+DetectSearchAntennaArea.o
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchAntennaArea.c_tool
+C/C++ compiler
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchArea.c_dependDone
+TRUE
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchArea.c_dependencies
+$(PRJ_DIR)/../Header.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stddef.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stdarg.h \
+	$(PRJ_DIR)/../PreDefine.h \
+	$(PRJ_DIR)/../TypeDefine.h \
+	$(PRJ_DIR)/../header/DetectLogRec.h \
+	$(PRJ_DIR)/../header/ListHead.h \
+	$(PRJ_DIR)/../header/DetectSearchStruct.h \
+	$(PRJ_DIR)/../header/DetectSearchArea.h \
+	$(PRJ_DIR)/../header/DetectSearchNode.h \
+	$(PRJ_DIR)/../header/DetectScheduleAntennaNode.h \
+	$(PRJ_DIR)/../header/DetectCmdMsgQCache.h \
+	$(PRJ_DIR)/../header/DetectSearchNodeCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectSearchAreaCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectScheduleTable.h \
+	$(PRJ_DIR)/../header/DetectOnceSearchCache.h \
+	$(PRJ_DIR)/../header/DetectPeriodSearchCache.h \
+	$(PRJ_DIR)/../header/DetectCycleSearchCache.h \
+	$(PRJ_DIR)/../header/DetectSearchCmdCache.h \
+	$(PRJ_DIR)/../header/DetectSearchAntennaArea.h \
+	$(PRJ_DIR)/../header/DetectOnceSearch.h \
+	$(PRJ_DIR)/../header/DetectCycleSearch.h \
+	$(PRJ_DIR)/../header/DetectScheduleList.h \
+	$(PRJ_DIR)/../header/DetectSearchFeedBack.h \
+	$(PRJ_DIR)/../header/DetectSchedule.h \
+	$(PRJ_DIR)/../header/DetectMonitor.h \
+	$(PRJ_DIR)/../header/DetectCmdProc.h \
+	$(PRJ_DIR)/../header/DetectProc.h
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchArea.c_objects
+DetectSearchArea.o
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchArea.c_tool
+C/C++ compiler
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchAreaCacheBuffer.c_dependDone
+TRUE
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchAreaCacheBuffer.c_dependencies
+$(PRJ_DIR)/../Header.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stddef.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stdarg.h \
+	$(PRJ_DIR)/../PreDefine.h \
+	$(PRJ_DIR)/../TypeDefine.h \
+	$(PRJ_DIR)/../header/DetectLogRec.h \
+	$(PRJ_DIR)/../header/ListHead.h \
+	$(PRJ_DIR)/../header/DetectSearchStruct.h \
+	$(PRJ_DIR)/../header/DetectSearchArea.h \
+	$(PRJ_DIR)/../header/DetectSearchNode.h \
+	$(PRJ_DIR)/../header/DetectScheduleAntennaNode.h \
+	$(PRJ_DIR)/../header/DetectCmdMsgQCache.h \
+	$(PRJ_DIR)/../header/DetectSearchNodeCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectSearchAreaCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectScheduleTable.h \
+	$(PRJ_DIR)/../header/DetectOnceSearchCache.h \
+	$(PRJ_DIR)/../header/DetectPeriodSearchCache.h \
+	$(PRJ_DIR)/../header/DetectCycleSearchCache.h \
+	$(PRJ_DIR)/../header/DetectSearchCmdCache.h \
+	$(PRJ_DIR)/../header/DetectSearchAntennaArea.h \
+	$(PRJ_DIR)/../header/DetectOnceSearch.h \
+	$(PRJ_DIR)/../header/DetectCycleSearch.h \
+	$(PRJ_DIR)/../header/DetectScheduleList.h \
+	$(PRJ_DIR)/../header/DetectSearchFeedBack.h \
+	$(PRJ_DIR)/../header/DetectSchedule.h \
+	$(PRJ_DIR)/../header/DetectMonitor.h \
+	$(PRJ_DIR)/../header/DetectCmdProc.h \
+	$(PRJ_DIR)/../header/DetectProc.h
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchAreaCacheBuffer.c_objects
+DetectSearchAreaCacheBuffer.o
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchAreaCacheBuffer.c_tool
+C/C++ compiler
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchCmdCache.c_dependDone
+TRUE
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchCmdCache.c_dependencies
+$(PRJ_DIR)/../Header.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stddef.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stdarg.h \
+	$(PRJ_DIR)/../PreDefine.h \
+	$(PRJ_DIR)/../TypeDefine.h \
+	$(PRJ_DIR)/../header/DetectLogRec.h \
+	$(PRJ_DIR)/../header/ListHead.h \
+	$(PRJ_DIR)/../header/DetectSearchStruct.h \
+	$(PRJ_DIR)/../header/DetectSearchArea.h \
+	$(PRJ_DIR)/../header/DetectSearchNode.h \
+	$(PRJ_DIR)/../header/DetectScheduleAntennaNode.h \
+	$(PRJ_DIR)/../header/DetectCmdMsgQCache.h \
+	$(PRJ_DIR)/../header/DetectSearchNodeCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectSearchAreaCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectScheduleTable.h \
+	$(PRJ_DIR)/../header/DetectOnceSearchCache.h \
+	$(PRJ_DIR)/../header/DetectPeriodSearchCache.h \
+	$(PRJ_DIR)/../header/DetectCycleSearchCache.h \
+	$(PRJ_DIR)/../header/DetectSearchCmdCache.h \
+	$(PRJ_DIR)/../header/DetectSearchAntennaArea.h \
+	$(PRJ_DIR)/../header/DetectOnceSearch.h \
+	$(PRJ_DIR)/../header/DetectCycleSearch.h \
+	$(PRJ_DIR)/../header/DetectScheduleList.h \
+	$(PRJ_DIR)/../header/DetectSearchFeedBack.h \
+	$(PRJ_DIR)/../header/DetectSchedule.h \
+	$(PRJ_DIR)/../header/DetectMonitor.h \
+	$(PRJ_DIR)/../header/DetectCmdProc.h \
+	$(PRJ_DIR)/../header/DetectProc.h
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchCmdCache.c_objects
+DetectSearchCmdCache.o
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchCmdCache.c_tool
+C/C++ compiler
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchFeedBack.c_dependDone
+TRUE
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchFeedBack.c_dependencies
+$(PRJ_DIR)/../Header.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stddef.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stdarg.h \
+	$(PRJ_DIR)/../PreDefine.h \
+	$(PRJ_DIR)/../TypeDefine.h \
+	$(PRJ_DIR)/../header/DetectLogRec.h \
+	$(PRJ_DIR)/../header/ListHead.h \
+	$(PRJ_DIR)/../header/DetectSearchStruct.h \
+	$(PRJ_DIR)/../header/DetectSearchArea.h \
+	$(PRJ_DIR)/../header/DetectSearchNode.h \
+	$(PRJ_DIR)/../header/DetectScheduleAntennaNode.h \
+	$(PRJ_DIR)/../header/DetectCmdMsgQCache.h \
+	$(PRJ_DIR)/../header/DetectSearchNodeCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectSearchAreaCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectScheduleTable.h \
+	$(PRJ_DIR)/../header/DetectOnceSearchCache.h \
+	$(PRJ_DIR)/../header/DetectPeriodSearchCache.h \
+	$(PRJ_DIR)/../header/DetectCycleSearchCache.h \
+	$(PRJ_DIR)/../header/DetectSearchCmdCache.h \
+	$(PRJ_DIR)/../header/DetectSearchAntennaArea.h \
+	$(PRJ_DIR)/../header/DetectOnceSearch.h \
+	$(PRJ_DIR)/../header/DetectCycleSearch.h \
+	$(PRJ_DIR)/../header/DetectScheduleList.h \
+	$(PRJ_DIR)/../header/DetectSearchFeedBack.h \
+	$(PRJ_DIR)/../header/DetectSchedule.h \
+	$(PRJ_DIR)/../header/DetectMonitor.h \
+	$(PRJ_DIR)/../header/DetectCmdProc.h \
+	$(PRJ_DIR)/../header/DetectProc.h
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchFeedBack.c_objects
+DetectSearchFeedBack.o
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchFeedBack.c_tool
+C/C++ compiler
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchNode.c_dependDone
+TRUE
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchNode.c_dependencies
+$(PRJ_DIR)/../Header.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stddef.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stdarg.h \
+	$(PRJ_DIR)/../PreDefine.h \
+	$(PRJ_DIR)/../TypeDefine.h \
+	$(PRJ_DIR)/../header/DetectLogRec.h \
+	$(PRJ_DIR)/../header/ListHead.h \
+	$(PRJ_DIR)/../header/DetectSearchStruct.h \
+	$(PRJ_DIR)/../header/DetectSearchArea.h \
+	$(PRJ_DIR)/../header/DetectSearchNode.h \
+	$(PRJ_DIR)/../header/DetectScheduleAntennaNode.h \
+	$(PRJ_DIR)/../header/DetectCmdMsgQCache.h \
+	$(PRJ_DIR)/../header/DetectSearchNodeCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectSearchAreaCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectScheduleTable.h \
+	$(PRJ_DIR)/../header/DetectOnceSearchCache.h \
+	$(PRJ_DIR)/../header/DetectPeriodSearchCache.h \
+	$(PRJ_DIR)/../header/DetectCycleSearchCache.h \
+	$(PRJ_DIR)/../header/DetectSearchCmdCache.h \
+	$(PRJ_DIR)/../header/DetectSearchAntennaArea.h \
+	$(PRJ_DIR)/../header/DetectOnceSearch.h \
+	$(PRJ_DIR)/../header/DetectCycleSearch.h \
+	$(PRJ_DIR)/../header/DetectScheduleList.h \
+	$(PRJ_DIR)/../header/DetectSearchFeedBack.h \
+	$(PRJ_DIR)/../header/DetectSchedule.h \
+	$(PRJ_DIR)/../header/DetectMonitor.h \
+	$(PRJ_DIR)/../header/DetectCmdProc.h \
+	$(PRJ_DIR)/../header/DetectProc.h
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchNode.c_objects
+DetectSearchNode.o
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchNode.c_tool
+C/C++ compiler
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchNodeCacheBuffer.c_dependDone
+TRUE
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchNodeCacheBuffer.c_dependencies
+$(PRJ_DIR)/../Header.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stddef.h \
+	$(WIND_BASE)/host/$(WIND_HOST_TYPE)/lib/gcc-lib/i386-pc-mingw32/gcc-2.96/include/stdarg.h \
+	$(PRJ_DIR)/../PreDefine.h \
+	$(PRJ_DIR)/../TypeDefine.h \
+	$(PRJ_DIR)/../header/DetectLogRec.h \
+	$(PRJ_DIR)/../header/ListHead.h \
+	$(PRJ_DIR)/../header/DetectSearchStruct.h \
+	$(PRJ_DIR)/../header/DetectSearchArea.h \
+	$(PRJ_DIR)/../header/DetectSearchNode.h \
+	$(PRJ_DIR)/../header/DetectScheduleAntennaNode.h \
+	$(PRJ_DIR)/../header/DetectCmdMsgQCache.h \
+	$(PRJ_DIR)/../header/DetectSearchNodeCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectSearchAreaCacheBuffer.h \
+	$(PRJ_DIR)/../header/DetectScheduleTable.h \
+	$(PRJ_DIR)/../header/DetectOnceSearchCache.h \
+	$(PRJ_DIR)/../header/DetectPeriodSearchCache.h \
+	$(PRJ_DIR)/../header/DetectCycleSearchCache.h \
+	$(PRJ_DIR)/../header/DetectSearchCmdCache.h \
+	$(PRJ_DIR)/../header/DetectSearchAntennaArea.h \
+	$(PRJ_DIR)/../header/DetectOnceSearch.h \
+	$(PRJ_DIR)/../header/DetectCycleSearch.h \
+	$(PRJ_DIR)/../header/DetectScheduleList.h \
+	$(PRJ_DIR)/../header/DetectSearchFeedBack.h \
+	$(PRJ_DIR)/../header/DetectSchedule.h \
+	$(PRJ_DIR)/../header/DetectMonitor.h \
+	$(PRJ_DIR)/../header/DetectCmdProc.h \
+	$(PRJ_DIR)/../header/DetectProc.h
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchNodeCacheBuffer.c_objects
+DetectSearchNodeCacheBuffer.o
+<END>
+
+<BEGIN> FILE_$(PRJ_DIR)/DetectSearchNodeCacheBuffer.c_tool
+C/C++ compiler
+<END>
+
+<BEGIN> PROJECT_FILES
+$(PRJ_DIR)/DetectCmdMsgQCache.c \
+	$(PRJ_DIR)/DetectCmdProc.c \
+	$(PRJ_DIR)/DetectCycleSearch.c \
+	$(PRJ_DIR)/DetectCycleSearchCache.c \
+	$(PRJ_DIR)/DetectLogRec.c \
+	$(PRJ_DIR)/DetectMonitor.c \
+	$(PRJ_DIR)/DetectOnceSearch.c \
+	$(PRJ_DIR)/DetectOnceSearchCache.c \
+	$(PRJ_DIR)/DetectPeriodSearchCache.c \
+	$(PRJ_DIR)/DetectProc.c \
+	$(PRJ_DIR)/DetectSchedule.c \
+	$(PRJ_DIR)/DetectScheduleAntennaNode.c \
+	$(PRJ_DIR)/DetectScheduleList.c \
+	$(PRJ_DIR)/DetectScheduleTable.c \
+	$(PRJ_DIR)/DetectSearchAntennaArea.c \
+	$(PRJ_DIR)/DetectSearchArea.c \
+	$(PRJ_DIR)/DetectSearchAreaCacheBuffer.c \
+	$(PRJ_DIR)/DetectSearchCmdCache.c \
+	$(PRJ_DIR)/DetectSearchFeedBack.c \
+	$(PRJ_DIR)/DetectSearchNode.c \
+	$(PRJ_DIR)/DetectSearchNodeCacheBuffer.c
+<END>
+
+<BEGIN> userComments
+<Enter description here>
+<END>
+

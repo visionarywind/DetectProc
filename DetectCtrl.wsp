@@ -1,0 +1,15 @@
+Document file - DO NOT EDIT
+
+<BEGIN> CORE_INFO_TYPE
+Workspace
+<END>
+
+<BEGIN> CORE_INFO_VERSION
+2.2
+<END>
+
+<BEGIN> projectList
+$(PRJ_DIR)/vxSimu/vxSimu.wpj \
+	$(PRJ_DIR)/src/DetectCtrl.wpj
+<END>
+

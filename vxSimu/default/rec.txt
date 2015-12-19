@@ -1,0 +1,1954 @@
+DetectSearchCmdCacheInitialize : pInstance=0x15d0af0
+Start to Procedure
+DetectCycleSearchCmdProc : pDCSCache=0x15d0af0, operateType=1
+DetectCycleSearchCmdProc : pDCSCache=0x15d0af0, operateType=1
+DetectSearchCmdFeedBackProc
+DetectScheduleDataProc
+DetectScheduleListCheck
+DetectScheduleListNeedsUpdate ret=1
+DetectScheduleListUpdate
+DetectCycleSearchUpdate
+DetectSearchAreaCacheGet
+DetectSearchAreaCache Adc used size=1
+DetectSearchAreaCacheListHeadGet : pNode=0x241d638
+__DetectCycleSearchExtract : angle=45.000000
+__DetectCycleSearchAreaInsert
+DetectSearchAreaCacheGet
+DetectSearchAreaCache Adc used size=2
+DetectSearchAreaCacheListHeadGet : pNode=0x241d660
+__DetectCycleSearchExtract : angle=245.000000
+__DetectCycleSearchAreaInsert
+DetectSearchNodeExplain
+ 0.000000 135.000000  
+DetectSearchNodeCacheBufferAdd usedSize=1
+DetectSearchNodeCacheListHeadGet : pNode=0x23aeed8
+DetectSearchNodeExtract angle=45.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=2
+DetectSearchNodeCacheListHeadGet : pNode=0x23aeef8
+DetectSearchNodeExtract angle=45.000000
+DetectSearchNodeCacheBufferAdd usedSize=3
+DetectSearchNodeCacheListHeadGet : pNode=0x23aef18
+DetectSearchNodeExtract angle=47.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=4
+DetectSearchNodeCacheListHeadGet : pNode=0x23aef38
+DetectSearchNodeExtract angle=47.000000
+DetectSearchNodeCacheBufferAdd usedSize=5
+DetectSearchNodeCacheListHeadGet : pNode=0x23aef58
+DetectSearchNodeExtract angle=49.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=6
+DetectSearchNodeCacheListHeadGet : pNode=0x23aef78
+DetectSearchNodeExtract angle=49.000000
+DetectSearchNodeCacheBufferAdd usedSize=7
+DetectSearchNodeCacheListHeadGet : pNode=0x23aef98
+DetectSearchNodeExtract angle=51.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=8
+DetectSearchNodeCacheListHeadGet : pNode=0x23aefb8
+DetectSearchNodeExtract angle=51.000000
+DetectSearchNodeCacheBufferAdd usedSize=9
+DetectSearchNodeCacheListHeadGet : pNode=0x23aefd8
+DetectSearchNodeExtract angle=53.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=10
+DetectSearchNodeCacheListHeadGet : pNode=0x23aeff8
+DetectSearchNodeExtract angle=53.000000
+DetectSearchNodeCacheBufferAdd usedSize=11
+DetectSearchNodeCacheListHeadGet : pNode=0x23af018
+DetectSearchNodeExtract angle=55.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=12
+DetectSearchNodeCacheListHeadGet : pNode=0x23af038
+DetectSearchNodeExtract angle=55.000000
+DetectSearchNodeCacheBufferAdd usedSize=13
+DetectSearchNodeCacheListHeadGet : pNode=0x23af058
+DetectSearchNodeExtract angle=57.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=14
+DetectSearchNodeCacheListHeadGet : pNode=0x23af078
+DetectSearchNodeExtract angle=57.000000
+DetectSearchNodeCacheBufferAdd usedSize=15
+DetectSearchNodeCacheListHeadGet : pNode=0x23af098
+DetectSearchNodeExtract angle=59.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=16
+DetectSearchNodeCacheListHeadGet : pNode=0x23af0b8
+DetectSearchNodeExtract angle=59.000000
+DetectSearchNodeCacheBufferAdd usedSize=17
+DetectSearchNodeCacheListHeadGet : pNode=0x23af0d8
+DetectSearchNodeExtract angle=61.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=18
+DetectSearchNodeCacheListHeadGet : pNode=0x23af0f8
+DetectSearchNodeExtract angle=61.000000
+DetectSearchNodeCacheBufferAdd usedSize=19
+DetectSearchNodeCacheListHeadGet : pNode=0x23af118
+DetectSearchNodeExtract angle=63.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=20
+DetectSearchNodeCacheListHeadGet : pNode=0x23af138
+DetectSearchNodeExtract angle=63.000000
+DetectSearchNodeCacheBufferAdd usedSize=21
+DetectSearchNodeCacheListHeadGet : pNode=0x23af158
+DetectSearchNodeExtract angle=65.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=22
+DetectSearchNodeCacheListHeadGet : pNode=0x23af178
+DetectSearchNodeExtract angle=65.000000
+DetectSearchNodeCacheBufferAdd usedSize=23
+DetectSearchNodeCacheListHeadGet : pNode=0x23af198
+DetectSearchNodeExtract angle=67.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=24
+DetectSearchNodeCacheListHeadGet : pNode=0x23af1b8
+DetectSearchNodeExtract angle=67.000000
+DetectSearchNodeCacheBufferAdd usedSize=25
+DetectSearchNodeCacheListHeadGet : pNode=0x23af1d8
+DetectSearchNodeExtract angle=69.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=26
+DetectSearchNodeCacheListHeadGet : pNode=0x23af1f8
+DetectSearchNodeExtract angle=69.000000
+DetectSearchNodeCacheBufferAdd usedSize=27
+DetectSearchNodeCacheListHeadGet : pNode=0x23af218
+DetectSearchNodeExtract angle=71.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=28
+DetectSearchNodeCacheListHeadGet : pNode=0x23af238
+DetectSearchNodeExtract angle=71.000000
+DetectSearchNodeCacheBufferAdd usedSize=29
+DetectSearchNodeCacheListHeadGet : pNode=0x23af258
+DetectSearchNodeExtract angle=73.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=30
+DetectSearchNodeCacheListHeadGet : pNode=0x23af278
+DetectSearchNodeExtract angle=73.000000
+DetectSearchNodeCacheBufferAdd usedSize=31
+DetectSearchNodeCacheListHeadGet : pNode=0x23af298
+DetectSearchNodeExtract angle=75.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=32
+DetectSearchNodeCacheListHeadGet : pNode=0x23af2b8
+DetectSearchNodeExtract angle=75.000000
+DetectSearchNodeCacheBufferAdd usedSize=33
+DetectSearchNodeCacheListHeadGet : pNode=0x23af2d8
+DetectSearchNodeExtract angle=77.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=34
+DetectSearchNodeCacheListHeadGet : pNode=0x23af2f8
+DetectSearchNodeExtract angle=77.000000
+DetectSearchNodeCacheBufferAdd usedSize=35
+DetectSearchNodeCacheListHeadGet : pNode=0x23af318
+DetectSearchNodeExtract angle=79.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=36
+DetectSearchNodeCacheListHeadGet : pNode=0x23af338
+DetectSearchNodeExtract angle=79.000000
+DetectSearchNodeCacheBufferAdd usedSize=37
+DetectSearchNodeCacheListHeadGet : pNode=0x23af358
+DetectSearchNodeExtract angle=81.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=38
+DetectSearchNodeCacheListHeadGet : pNode=0x23af378
+DetectSearchNodeExtract angle=81.000000
+DetectSearchNodeCacheBufferAdd usedSize=39
+DetectSearchNodeCacheListHeadGet : pNode=0x23af398
+DetectSearchNodeExtract angle=83.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=40
+DetectSearchNodeCacheListHeadGet : pNode=0x23af3b8
+DetectSearchNodeExtract angle=83.000000
+DetectSearchNodeCacheBufferAdd usedSize=41
+DetectSearchNodeCacheListHeadGet : pNode=0x23af3d8
+DetectSearchNodeExtract angle=85.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=42
+DetectSearchNodeCacheListHeadGet : pNode=0x23af3f8
+DetectSearchNodeExtract angle=85.000000
+DetectSearchNodeCacheBufferAdd usedSize=43
+DetectSearchNodeCacheListHeadGet : pNode=0x23af418
+DetectSearchNodeExtract angle=87.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=44
+DetectSearchNodeCacheListHeadGet : pNode=0x23af438
+DetectSearchNodeExtract angle=87.000000
+DetectSearchNodeCacheBufferAdd usedSize=45
+DetectSearchNodeCacheListHeadGet : pNode=0x23af458
+DetectSearchNodeExtract angle=89.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=46
+DetectSearchNodeCacheListHeadGet : pNode=0x23af478
+DetectSearchNodeExtract angle=89.000000
+DetectSearchNodeCacheBufferAdd usedSize=47
+DetectSearchNodeCacheListHeadGet : pNode=0x23af498
+DetectSearchNodeExtract angle=91.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=48
+DetectSearchNodeCacheListHeadGet : pNode=0x23af4b8
+DetectSearchNodeExtract angle=91.000000
+DetectSearchNodeCacheBufferAdd usedSize=49
+DetectSearchNodeCacheListHeadGet : pNode=0x23af4d8
+DetectSearchNodeExtract angle=93.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=50
+DetectSearchNodeCacheListHeadGet : pNode=0x23af4f8
+DetectSearchNodeExtract angle=93.000000
+DetectSearchNodeCacheBufferAdd usedSize=51
+DetectSearchNodeCacheListHeadGet : pNode=0x23af518
+DetectSearchNodeExtract angle=95.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=52
+DetectSearchNodeCacheListHeadGet : pNode=0x23af538
+DetectSearchNodeExtract angle=95.000000
+DetectSearchNodeCacheBufferAdd usedSize=53
+DetectSearchNodeCacheListHeadGet : pNode=0x23af558
+DetectSearchNodeExtract angle=97.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=54
+DetectSearchNodeCacheListHeadGet : pNode=0x23af578
+DetectSearchNodeExtract angle=97.000000
+DetectSearchNodeCacheBufferAdd usedSize=55
+DetectSearchNodeCacheListHeadGet : pNode=0x23af598
+DetectSearchNodeExtract angle=99.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=56
+DetectSearchNodeCacheListHeadGet : pNode=0x23af5b8
+DetectSearchNodeExtract angle=99.000000
+DetectSearchNodeCacheBufferAdd usedSize=57
+DetectSearchNodeCacheListHeadGet : pNode=0x23af5d8
+DetectSearchNodeExtract angle=101.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=58
+DetectSearchNodeCacheListHeadGet : pNode=0x23af5f8
+DetectSearchNodeExtract angle=101.000000
+DetectSearchNodeCacheBufferAdd usedSize=59
+DetectSearchNodeCacheListHeadGet : pNode=0x23af618
+DetectSearchNodeExtract angle=103.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=60
+DetectSearchNodeCacheListHeadGet : pNode=0x23af638
+DetectSearchNodeExtract angle=103.000000
+DetectSearchNodeCacheBufferAdd usedSize=61
+DetectSearchNodeCacheListHeadGet : pNode=0x23af658
+DetectSearchNodeExtract angle=105.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=62
+DetectSearchNodeCacheListHeadGet : pNode=0x23af678
+DetectSearchNodeExtract angle=105.000000
+DetectSearchNodeCacheBufferAdd usedSize=63
+DetectSearchNodeCacheListHeadGet : pNode=0x23af698
+DetectSearchNodeExtract angle=107.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=64
+DetectSearchNodeCacheListHeadGet : pNode=0x23af6b8
+DetectSearchNodeExtract angle=107.000000
+DetectSearchNodeCacheBufferAdd usedSize=65
+DetectSearchNodeCacheListHeadGet : pNode=0x23af6d8
+DetectSearchNodeExtract angle=109.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=66
+DetectSearchNodeCacheListHeadGet : pNode=0x23af6f8
+DetectSearchNodeExtract angle=109.000000
+DetectSearchNodeCacheBufferAdd usedSize=67
+DetectSearchNodeCacheListHeadGet : pNode=0x23af718
+DetectSearchNodeExtract angle=111.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=68
+DetectSearchNodeCacheListHeadGet : pNode=0x23af738
+DetectSearchNodeExtract angle=111.000000
+DetectSearchNodeCacheBufferAdd usedSize=69
+DetectSearchNodeCacheListHeadGet : pNode=0x23af758
+DetectSearchNodeExtract angle=113.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=70
+DetectSearchNodeCacheListHeadGet : pNode=0x23af778
+DetectSearchNodeExtract angle=113.000000
+DetectSearchNodeCacheBufferAdd usedSize=71
+DetectSearchNodeCacheListHeadGet : pNode=0x23af798
+DetectSearchNodeExtract angle=115.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=72
+DetectSearchNodeCacheListHeadGet : pNode=0x23af7b8
+DetectSearchNodeExtract angle=115.000000
+DetectSearchNodeCacheBufferAdd usedSize=73
+DetectSearchNodeCacheListHeadGet : pNode=0x23af7d8
+DetectSearchNodeExtract angle=117.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=74
+DetectSearchNodeCacheListHeadGet : pNode=0x23af7f8
+DetectSearchNodeExtract angle=117.000000
+DetectSearchNodeCacheBufferAdd usedSize=75
+DetectSearchNodeCacheListHeadGet : pNode=0x23af818
+DetectSearchNodeExtract angle=119.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=76
+DetectSearchNodeCacheListHeadGet : pNode=0x23af838
+DetectSearchNodeExtract angle=119.000000
+DetectSearchNodeCacheBufferAdd usedSize=77
+DetectSearchNodeCacheListHeadGet : pNode=0x23af858
+DetectSearchNodeExtract angle=121.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=78
+DetectSearchNodeCacheListHeadGet : pNode=0x23af878
+DetectSearchNodeExtract angle=121.000000
+DetectSearchNodeCacheBufferAdd usedSize=79
+DetectSearchNodeCacheListHeadGet : pNode=0x23af898
+DetectSearchNodeExtract angle=123.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=80
+DetectSearchNodeCacheListHeadGet : pNode=0x23af8b8
+DetectSearchNodeExtract angle=123.000000
+DetectSearchNodeCacheBufferAdd usedSize=81
+DetectSearchNodeCacheListHeadGet : pNode=0x23af8d8
+DetectSearchNodeExtract angle=125.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=82
+DetectSearchNodeCacheListHeadGet : pNode=0x23af8f8
+DetectSearchNodeExtract angle=125.000000
+DetectSearchNodeCacheBufferAdd usedSize=83
+DetectSearchNodeCacheListHeadGet : pNode=0x23af918
+DetectSearchNodeExtract angle=127.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=84
+DetectSearchNodeCacheListHeadGet : pNode=0x23af938
+DetectSearchNodeExtract angle=127.000000
+DetectSearchNodeCacheBufferAdd usedSize=85
+DetectSearchNodeCacheListHeadGet : pNode=0x23af958
+DetectSearchNodeExtract angle=129.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=86
+DetectSearchNodeCacheListHeadGet : pNode=0x23af978
+DetectSearchNodeExtract angle=129.000000
+DetectSearchNodeCacheBufferAdd usedSize=87
+DetectSearchNodeCacheListHeadGet : pNode=0x23af998
+DetectSearchNodeExtract angle=131.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=88
+DetectSearchNodeCacheListHeadGet : pNode=0x23af9b8
+DetectSearchNodeExtract angle=131.000000
+DetectSearchNodeCacheBufferAdd usedSize=89
+DetectSearchNodeCacheListHeadGet : pNode=0x23af9d8
+DetectSearchNodeExtract angle=133.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=90
+DetectSearchNodeCacheListHeadGet : pNode=0x23af9f8
+DetectSearchNodeExtract angle=133.000000
+DetectSearchNodeCacheBufferAdd usedSize=91
+DetectSearchNodeCacheListHeadGet : pNode=0x23afa18
+DetectSearchNodeExtract angle=135.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=92
+DetectSearchNodeCacheListHeadGet : pNode=0x23afa38
+DetectSearchNodeExtract angle=135.000000
+DetectSearchNodeCacheBufferAdd usedSize=93
+DetectSearchNodeCacheListHeadGet : pNode=0x23afa58
+DetectSearchNodeExtract angle=137.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=94
+DetectSearchNodeCacheListHeadGet : pNode=0x23afa78
+DetectSearchNodeExtract angle=137.000000
+DetectSearchNodeCacheBufferAdd usedSize=95
+DetectSearchNodeCacheListHeadGet : pNode=0x23afa98
+DetectSearchNodeExtract angle=139.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=96
+DetectSearchNodeCacheListHeadGet : pNode=0x23afab8
+DetectSearchNodeExtract angle=139.000000
+DetectSearchNodeCacheBufferAdd usedSize=97
+DetectSearchNodeCacheListHeadGet : pNode=0x23afad8
+DetectSearchNodeExtract angle=141.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=98
+DetectSearchNodeCacheListHeadGet : pNode=0x23afaf8
+DetectSearchNodeExtract angle=141.000000
+DetectSearchNodeCacheBufferAdd usedSize=99
+DetectSearchNodeCacheListHeadGet : pNode=0x23afb18
+DetectSearchNodeExtract angle=143.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=100
+DetectSearchNodeCacheListHeadGet : pNode=0x23afb38
+DetectSearchNodeExtract angle=143.000000
+DetectSearchNodeCacheBufferAdd usedSize=101
+DetectSearchNodeCacheListHeadGet : pNode=0x23afb58
+DetectSearchNodeExtract angle=145.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=102
+DetectSearchNodeCacheListHeadGet : pNode=0x23afb78
+DetectSearchNodeExtract angle=145.000000
+DetectSearchNodeCacheBufferAdd usedSize=103
+DetectSearchNodeCacheListHeadGet : pNode=0x23afb98
+DetectSearchNodeExtract angle=147.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=104
+DetectSearchNodeCacheListHeadGet : pNode=0x23afbb8
+DetectSearchNodeExtract angle=147.000000
+DetectSearchNodeCacheBufferAdd usedSize=105
+DetectSearchNodeCacheListHeadGet : pNode=0x23afbd8
+DetectSearchNodeExtract angle=149.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=106
+DetectSearchNodeCacheListHeadGet : pNode=0x23afbf8
+DetectSearchNodeExtract angle=149.000000
+DetectSearchNodeCacheBufferAdd usedSize=107
+DetectSearchNodeCacheListHeadGet : pNode=0x23afc18
+DetectSearchNodeExtract angle=151.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=108
+DetectSearchNodeCacheListHeadGet : pNode=0x23afc38
+DetectSearchNodeExtract angle=151.000000
+DetectSearchNodeCacheBufferAdd usedSize=109
+DetectSearchNodeCacheListHeadGet : pNode=0x23afc58
+DetectSearchNodeExtract angle=153.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=110
+DetectSearchNodeCacheListHeadGet : pNode=0x23afc78
+DetectSearchNodeExtract angle=153.000000
+DetectSearchNodeCacheBufferAdd usedSize=111
+DetectSearchNodeCacheListHeadGet : pNode=0x23afc98
+DetectSearchNodeExtract angle=155.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=112
+DetectSearchNodeCacheListHeadGet : pNode=0x23afcb8
+DetectSearchNodeExtract angle=155.000000
+DetectSearchNodeCacheBufferAdd usedSize=113
+DetectSearchNodeCacheListHeadGet : pNode=0x23afcd8
+DetectSearchNodeExtract angle=157.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=114
+DetectSearchNodeCacheListHeadGet : pNode=0x23afcf8
+DetectSearchNodeExtract angle=157.000000
+DetectSearchNodeCacheBufferAdd usedSize=115
+DetectSearchNodeCacheListHeadGet : pNode=0x23afd18
+DetectSearchNodeExtract angle=159.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=116
+DetectSearchNodeCacheListHeadGet : pNode=0x23afd38
+DetectSearchNodeExtract angle=159.000000
+DetectSearchNodeCacheBufferAdd usedSize=117
+DetectSearchNodeCacheListHeadGet : pNode=0x23afd58
+DetectSearchNodeExtract angle=161.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=118
+DetectSearchNodeCacheListHeadGet : pNode=0x23afd78
+DetectSearchNodeExtract angle=161.000000
+DetectSearchNodeCacheBufferAdd usedSize=119
+DetectSearchNodeCacheListHeadGet : pNode=0x23afd98
+DetectSearchNodeExtract angle=163.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=120
+DetectSearchNodeCacheListHeadGet : pNode=0x23afdb8
+DetectSearchNodeExtract angle=163.000000
+DetectSearchNodeCacheBufferAdd usedSize=121
+DetectSearchNodeCacheListHeadGet : pNode=0x23afdd8
+DetectSearchNodeExtract angle=165.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=122
+DetectSearchNodeCacheListHeadGet : pNode=0x23afdf8
+DetectSearchNodeExtract angle=165.000000
+DetectSearchNodeCacheBufferAdd usedSize=123
+DetectSearchNodeCacheListHeadGet : pNode=0x23afe18
+DetectSearchNodeExtract angle=167.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=124
+DetectSearchNodeCacheListHeadGet : pNode=0x23afe38
+DetectSearchNodeExtract angle=167.000000
+DetectSearchNodeCacheBufferAdd usedSize=125
+DetectSearchNodeCacheListHeadGet : pNode=0x23afe58
+DetectSearchNodeExtract angle=169.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=126
+DetectSearchNodeCacheListHeadGet : pNode=0x23afe78
+DetectSearchNodeExtract angle=169.000000
+DetectSearchNodeCacheBufferAdd usedSize=127
+DetectSearchNodeCacheListHeadGet : pNode=0x23afe98
+DetectSearchNodeExtract angle=171.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=128
+DetectSearchNodeCacheListHeadGet : pNode=0x23afeb8
+DetectSearchNodeExtract angle=171.000000
+DetectSearchNodeCacheBufferAdd usedSize=129
+DetectSearchNodeCacheListHeadGet : pNode=0x23afed8
+DetectSearchNodeExtract angle=173.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=130
+DetectSearchNodeCacheListHeadGet : pNode=0x23afef8
+DetectSearchNodeExtract angle=173.000000
+DetectSearchNodeCacheBufferAdd usedSize=131
+DetectSearchNodeCacheListHeadGet : pNode=0x23aff18
+DetectSearchNodeExtract angle=175.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=132
+DetectSearchNodeCacheListHeadGet : pNode=0x23aff38
+DetectSearchNodeExtract angle=175.000000
+DetectSearchNodeCacheBufferAdd usedSize=133
+DetectSearchNodeCacheListHeadGet : pNode=0x23aff58
+DetectSearchNodeExtract angle=177.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=134
+DetectSearchNodeCacheListHeadGet : pNode=0x23aff78
+DetectSearchNodeExtract angle=177.000000
+DetectSearchNodeCacheBufferAdd usedSize=135
+DetectSearchNodeCacheListHeadGet : pNode=0x23aff98
+DetectSearchNodeExtract angle=179.000000
+DetectSearchAreaNeedExpands ret = 1
+DetectSearchNodeCacheBufferAdd usedSize=136
+DetectSearchNodeCacheListHeadGet : pNode=0x23affb8
+DetectSearchNodeExtract angle=179.000000
+DetectSearchAreaCache Dec used size=1
+DetectSearchAreaCacheListHeadPut : pNode=0x241d638, ret=1
+DetectSearchNodeExplain
+ 0.000000 35.000000  
+DetectSearchNodeCacheBufferAdd usedSize=137
+DetectSearchNodeCacheListHeadGet : pNode=0x23affd8
+DetectSearchNodeExtract angle=245.000000
+DetectSearchAreaNeedExpands ret = 0
+DetectSearchNodeCacheBufferAdd usedSize=138
+DetectSearchNodeCacheListHeadGet : pNode=0x23afff8
+DetectSearchNodeExtract angle=247.000000
+DetectSearchAreaNeedExpands ret = 0
+DetectSearchNodeCacheBufferAdd usedSize=139
+DetectSearchNodeCacheListHeadGet : pNode=0x23b0018
+DetectSearchNodeExtract angle=249.000000
+DetectSearchAreaNeedExpands ret = 0
+DetectSearchNodeCacheBufferAdd usedSize=140
+DetectSearchNodeCacheListHeadGet : pNode=0x23b0038
+DetectSearchNodeExtract angle=251.000000
+DetectSearchAreaNeedExpands ret = 0
+DetectSearchNodeCacheBufferAdd usedSize=141
+DetectSearchNodeCacheListHeadGet : pNode=0x23b0058
+DetectSearchNodeExtract angle=253.000000
+DetectSearchAreaNeedExpands ret = 0
+DetectSearchNodeCacheBufferAdd usedSize=142
+DetectSearchNodeCacheListHeadGet : pNode=0x23b0078
+DetectSearchNodeExtract angle=255.000000
+DetectSearchAreaNeedExpands ret = 0
+DetectSearchNodeCacheBufferAdd usedSize=143
+DetectSearchNodeCacheListHeadGet : pNode=0x23b0098
+DetectSearchNodeExtract angle=257.000000
+DetectSearchAreaNeedExpands ret = 0
+DetectSearchNodeCacheBufferAdd usedSize=144
+DetectSearchNodeCacheListHeadGet : pNode=0x23b00b8
+DetectSearchNodeExtract angle=259.000000
+DetectSearchAreaNeedExpands ret = 0
+DetectSearchNodeCacheBufferAdd usedSize=145
+DetectSearchNodeCacheListHeadGet : pNode=0x23b00d8
+DetectSearchNodeExtract angle=261.000000
+DetectSearchAreaNeedExpands ret = 0
+DetectSearchNodeCacheBufferAdd usedSize=146
+DetectSearchNodeCacheListHeadGet : pNode=0x23b00f8
+DetectSearchNodeExtract angle=263.000000
+DetectSearchAreaNeedExpands ret = 0
+DetectSearchNodeCacheBufferAdd usedSize=147
+DetectSearchNodeCacheListHeadGet : pNode=0x23b0118
+DetectSearchNodeExtract angle=265.000000
+DetectSearchAreaNeedExpands ret = 0
+DetectSearchNodeCacheBufferAdd usedSize=148
+DetectSearchNodeCacheListHeadGet : pNode=0x23b0138
+DetectSearchNodeExtract angle=267.000000
+DetectSearchAreaNeedExpands ret = 0
+DetectSearchNodeCacheBufferAdd usedSize=149
+DetectSearchNodeCacheListHeadGet : pNode=0x23b0158
+DetectSearchNodeExtract angle=269.000000
+DetectSearchAreaNeedExpands ret = 0
+DetectSearchNodeCacheBufferAdd usedSize=150
+DetectSearchNodeCacheListHeadGet : pNode=0x23b0178
+DetectSearchNodeExtract angle=271.000000
+DetectSearchAreaNeedExpands ret = 0
+DetectSearchNodeCacheBufferAdd usedSize=151
+DetectSearchNodeCacheListHeadGet : pNode=0x23b0198
+DetectSearchNodeExtract angle=273.000000
+DetectSearchAreaNeedExpands ret = 0
+DetectSearchNodeCacheBufferAdd usedSize=152
+DetectSearchNodeCacheListHeadGet : pNode=0x23b01b8
+DetectSearchNodeExtract angle=275.000000
+DetectSearchAreaNeedExpands ret = 0
+DetectSearchNodeCacheBufferAdd usedSize=153
+DetectSearchNodeCacheListHeadGet : pNode=0x23b01d8
+DetectSearchNodeExtract angle=277.000000
+DetectSearchAreaNeedExpands ret = 0
+DetectSearchNodeCacheBufferAdd usedSize=154
+DetectSearchNodeCacheListHeadGet : pNode=0x23b01f8
+DetectSearchNodeExtract angle=279.000000
+DetectSearchAreaNeedExpands ret = 0
+DetectSearchAreaCache Dec used size=0
+DetectSearchAreaCacheListHeadPut : pNode=0x241d660, ret=1
+DetectSearchAreaCacheListClear : head=0x15d0de4
+ListHeadClear : head=0x15d0de4
+DetectCycleSearchPrint
+	DetectSearchNode : angle=45.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=45.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=47.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=47.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=49.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=49.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=51.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=51.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=53.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=53.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=55.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=55.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=57.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=57.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=59.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=59.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=61.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=61.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=63.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=63.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=65.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=65.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=67.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=67.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=69.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=69.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=71.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=71.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=73.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=73.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=75.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=75.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=77.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=77.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=79.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=79.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=81.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=81.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=83.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=83.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=85.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=85.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=87.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=87.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=89.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=89.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=91.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=91.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=93.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=93.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=95.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=95.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=97.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=97.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=99.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=99.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=101.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=101.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=103.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=103.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=105.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=105.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=107.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=107.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=109.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=109.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=111.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=111.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=113.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=113.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=115.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=115.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=117.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=117.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=119.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=119.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=121.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=121.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=123.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=123.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=125.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=125.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=127.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=127.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=129.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=129.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=131.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=131.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=133.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=133.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=135.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=135.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=137.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=137.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=139.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=139.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=141.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=141.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=143.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=143.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=145.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=145.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=147.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=147.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=149.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=149.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=151.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=151.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=153.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=153.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=155.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=155.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=157.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=157.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=159.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=159.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=161.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=161.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=163.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=163.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=165.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=165.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=167.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=167.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=169.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=169.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=171.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=171.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=173.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=173.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=175.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=175.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=177.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=177.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=179.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=179.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=245.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=247.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=249.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=251.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=253.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=255.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=257.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=259.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=261.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=263.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=265.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=267.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=269.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=271.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=273.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=275.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=277.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=279.000000, stayPeriod=50, type=1, mask=0, flag=0
+DetectAntennaAreaClear
+DetectAntennaAreaPrint
+	AntennaAreaNodePrint : crossArea=0
+DetectAntennaAreaPrint : color[0]=0
+	AntennaAreaNodePrint : crossArea=0
+DetectAntennaAreaPrint : color[1]=0
+	AntennaAreaNodePrint : crossArea=0
+DetectAntennaAreaPrint : color[2]=0
+	AntennaAreaNodePrint : crossArea=0
+DetectAntennaAreaPrint : color[3]=0
+AntennaAreaNodeClear
+DetectSearchNodeCacheListClear
+ListHeadClear : head=0x15d0a20
+AntennaAreaNodeClear
+DetectSearchNodeCacheListClear
+ListHeadClear : head=0x15d0a54
+AntennaAreaNodeClear
+DetectSearchNodeCacheListClear
+ListHeadClear : head=0x15d0a88
+AntennaAreaNodeClear
+DetectSearchNodeCacheListClear
+ListHeadClear : head=0x15d0abc
+DetectAntennaAreaOffsetUpdate : ret=0
+DetectAntennaAreaListPut
+DetectAntennaAreaPut
+	DetectSearchNode : angle=45.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=45.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=45.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=45.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=47.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=47.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=47.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=47.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=49.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=49.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=49.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=49.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=51.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=51.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=51.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=51.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=53.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=53.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=53.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=53.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=55.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=55.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=55.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=55.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=57.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=57.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=57.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=57.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=59.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=59.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=59.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=59.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=61.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=61.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=61.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=61.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=63.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=63.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=63.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=63.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=65.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=65.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=65.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=65.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=67.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=67.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=67.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=67.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=69.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=69.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=69.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=69.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=71.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=71.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=71.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=71.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=73.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=73.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=73.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=73.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=75.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=75.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=75.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=75.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=77.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=77.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=77.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=77.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=79.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=79.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=79.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=79.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=81.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=81.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=81.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=81.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=83.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=83.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=83.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=83.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=85.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=85.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=85.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=85.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=87.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=87.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=87.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=87.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=89.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=89.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=89.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=89.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=91.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=91.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=91.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=91.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=93.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=93.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=93.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=93.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=95.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=95.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=95.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=95.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=97.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=97.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=97.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=97.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=99.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=99.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=99.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=99.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=101.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=101.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=101.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=101.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=103.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=103.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=103.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=103.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=105.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=105.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=105.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=105.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=107.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=107.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=107.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=107.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=109.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=109.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=109.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=109.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=111.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=111.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=111.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=111.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=113.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=113.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=113.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=113.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=115.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=115.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=115.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=115.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=117.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=117.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=117.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=117.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=119.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=119.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=119.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=119.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=121.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=121.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=121.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=121.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=123.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=123.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=123.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=123.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=125.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=125.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=125.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=125.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=127.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=127.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=127.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=127.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=129.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=129.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=129.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=129.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=131.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=131.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=131.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=131.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=133.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=133.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=133.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=133.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=135.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=135.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=135.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=135.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=137.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=137.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=137.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=137.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=139.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=139.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=139.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=139.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=141.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=141.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=141.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=141.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=143.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=143.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=143.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=143.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=145.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=145.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=145.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=145.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=147.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=147.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=147.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=147.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=149.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=149.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=149.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=149.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=151.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=151.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=151.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=151.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=153.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=153.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=153.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=153.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=155.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=155.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=155.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=155.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=157.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=157.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=157.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=157.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=159.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=159.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=159.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=159.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=161.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=161.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=161.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=161.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=163.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=163.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=163.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=163.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=165.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=165.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=165.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=165.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=167.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=167.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=167.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=167.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=169.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=169.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=169.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=169.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=171.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=171.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=171.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=171.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=173.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=173.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=173.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=173.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=175.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=175.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=175.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=175.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=177.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=177.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=177.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=177.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=179.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=179.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=179.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a38, angle=179.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=245.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a6c, angle=245.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=247.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a6c, angle=247.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=249.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a6c, angle=249.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=251.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a6c, angle=251.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=253.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a6c, angle=253.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=255.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a6c, angle=255.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=257.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a6c, angle=257.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=259.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a6c, angle=259.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=261.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a6c, angle=261.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=263.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a6c, angle=263.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=265.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a6c, angle=265.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=267.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a6c, angle=267.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=269.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a6c, angle=269.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=271.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0aa0, angle=271.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=273.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0aa0, angle=273.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=275.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0aa0, angle=275.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=277.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0aa0, angle=277.000000, crossArea=0
+DetectAntennaAreaPut
+	DetectSearchNode : angle=279.000000, stayPeriod=50, type=1, mask=0, flag=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0aa0, angle=279.000000, crossArea=0
+AntennaAreaAngleTrack : assist=0, lastAssist=0
+AntennaAreaAngleTrack : assist=0, lastAssist=0
+AntennaAreaAngleTrack : assist=0, lastAssist=0
+AntennaAreaAngleTrack : assist=0, lastAssist=0
+DetectScheduleScheduleProc
+DetectScheduleAntennaNodeExtract
+DetectScheduleTableDataGet
+__DetectScheduleAntennaNodeExtractFormList : isEmpty=1
+__DetectScheduleAntennaNodeExtractFromAntennaArea
+DetectScheduleAntennaNode Print:
+	DetectSearchNode : angle=45.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=91.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=245.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=271.000000, stayPeriod=50, type=1, mask=0, flag=0
+DetectAntennaAreaPrint
+	AntennaAreaNodePrint : crossArea=0
+	DetectSearchNode : angle=45.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=45.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=47.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=47.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=49.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=49.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=51.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=51.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=53.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=53.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=55.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=55.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=57.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=57.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=59.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=59.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=61.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=61.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=63.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=63.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=65.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=65.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=67.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=67.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=69.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=69.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=71.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=71.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=73.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=73.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=75.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=75.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=77.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=77.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=79.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=79.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=81.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=81.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=83.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=83.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=85.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=85.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=87.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=87.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=89.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=89.000000, stayPeriod=50, type=1, mask=0, flag=0
+DetectAntennaAreaPrint : color[0]=1
+	AntennaAreaNodePrint : crossArea=0
+	DetectSearchNode : angle=91.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=91.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=93.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=93.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=95.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=95.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=97.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=97.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=99.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=99.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=101.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=101.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=103.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=103.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=105.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=105.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=107.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=107.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=109.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=109.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=111.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=111.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=113.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=113.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=115.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=115.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=117.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=117.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=119.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=119.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=121.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=121.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=123.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=123.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=125.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=125.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=127.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=127.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=129.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=129.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=131.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=131.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=133.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=133.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=135.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=135.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=137.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=137.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=139.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=139.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=141.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=141.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=143.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=143.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=145.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=145.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=147.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=147.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=149.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=149.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=151.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=151.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=153.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=153.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=155.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=155.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=157.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=157.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=159.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=159.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=161.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=161.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=163.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=163.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=165.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=165.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=167.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=167.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=169.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=169.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=171.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=171.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=173.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=173.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=175.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=175.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=177.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=177.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=179.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=179.000000, stayPeriod=50, type=1, mask=0, flag=0
+DetectAntennaAreaPrint : color[1]=1
+	AntennaAreaNodePrint : crossArea=0
+	DetectSearchNode : angle=245.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=247.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=249.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=251.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=253.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=255.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=257.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=259.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=261.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=263.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=265.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=267.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=269.000000, stayPeriod=50, type=1, mask=0, flag=0
+DetectAntennaAreaPrint : color[2]=1
+	AntennaAreaNodePrint : crossArea=0
+	DetectSearchNode : angle=271.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=273.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=275.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=277.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=279.000000, stayPeriod=50, type=1, mask=0, flag=0
+DetectAntennaAreaPrint : color[3]=1
+Start to Procedure
+DetectScheduleDataProc
+DetectScheduleListCheck
+DetectScheduleListNeedsUpdate ret=0
+DetectScheduleDataProc	No need to update list
+start=1.000000, end=90.989998
+assist=0, lastAssist=0
+start=91.000000, end=180.990005
+assist=0, lastAssist=0
+start=181.000000, end=270.989990
+assist=0, lastAssist=0
+start=271.000000, end=0.989990
+assist=1, lastAssist=0
+DetectAntennaAreaOffsetUpdate : ret=1
+Formal Part
+Back Part
+Formal Part
+Back Part
+Formal Part
+Back Part
+Formal Part
+Back Part
+AntennaAreaAngleTrack : assist=0, lastAssist=0
+AntennaAreaAngleTrack : assist=0, lastAssist=0
+AntennaAreaAngleTrack : assist=0, lastAssist=0
+AntennaAreaAngleTrack : assist=1, lastAssist=1
+DetectScheduleScheduleProc
+DetectScheduleAntennaNodeExtract
+DetectScheduleTableDataGet
+__DetectScheduleAntennaNodeExtractFormList : isEmpty=1
+__DetectScheduleAntennaNodeExtractFromAntennaArea
+DetectScheduleAntennaNode Print:
+	DetectSearchNode : angle=45.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=91.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=247.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=273.000000, stayPeriod=50, type=1, mask=0, flag=0
+DetectAntennaAreaPrint
+	AntennaAreaNodePrint : crossArea=0
+	DetectSearchNode : angle=45.000000, stayPeriod=50, type=1, mask=0, flag=1
+	DetectSearchNode : angle=45.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=47.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=47.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=49.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=49.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=51.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=51.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=53.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=53.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=55.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=55.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=57.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=57.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=59.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=59.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=61.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=61.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=63.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=63.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=65.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=65.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=67.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=67.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=69.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=69.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=71.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=71.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=73.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=73.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=75.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=75.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=77.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=77.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=79.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=79.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=81.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=81.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=83.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=83.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=85.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=85.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=87.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=87.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=89.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=89.000000, stayPeriod=50, type=1, mask=0, flag=0
+DetectAntennaAreaPrint : color[0]=1
+	AntennaAreaNodePrint : crossArea=0
+	DetectSearchNode : angle=91.000000, stayPeriod=50, type=1, mask=0, flag=1
+	DetectSearchNode : angle=91.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=93.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=93.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=95.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=95.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=97.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=97.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=99.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=99.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=101.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=101.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=103.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=103.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=105.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=105.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=107.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=107.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=109.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=109.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=111.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=111.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=113.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=113.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=115.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=115.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=117.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=117.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=119.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=119.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=121.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=121.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=123.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=123.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=125.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=125.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=127.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=127.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=129.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=129.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=131.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=131.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=133.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=133.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=135.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=135.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=137.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=137.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=139.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=139.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=141.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=141.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=143.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=143.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=145.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=145.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=147.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=147.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=149.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=149.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=151.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=151.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=153.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=153.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=155.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=155.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=157.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=157.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=159.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=159.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=161.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=161.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=163.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=163.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=165.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=165.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=167.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=167.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=169.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=169.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=171.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=171.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=173.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=173.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=175.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=175.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=177.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=177.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=179.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=179.000000, stayPeriod=50, type=1, mask=0, flag=0
+DetectAntennaAreaPrint : color[1]=1
+	AntennaAreaNodePrint : crossArea=0
+	DetectSearchNode : angle=245.000000, stayPeriod=50, type=1, mask=0, flag=1
+	DetectSearchNode : angle=247.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=249.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=251.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=253.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=255.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=257.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=259.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=261.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=263.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=265.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=267.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=269.000000, stayPeriod=50, type=1, mask=0, flag=0
+DetectAntennaAreaPrint : color[2]=1
+	AntennaAreaNodePrint : crossArea=1
+	DetectSearchNode : angle=271.000000, stayPeriod=50, type=1, mask=0, flag=1
+	DetectSearchNode : angle=273.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=275.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=277.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=279.000000, stayPeriod=50, type=1, mask=0, flag=0
+DetectAntennaAreaPrint : color[3]=1
+Start to Procedure
+DetectScheduleDataProc
+DetectScheduleListCheck
+DetectScheduleListNeedsUpdate ret=0
+DetectScheduleDataProc	No need to update list
+start=2.000000, end=91.989998
+assist=0, lastAssist=0
+start=92.000000, end=181.990005
+assist=0, lastAssist=0
+start=182.000000, end=271.989990
+assist=0, lastAssist=0
+start=272.000000, end=1.989990
+assist=1, lastAssist=1
+DetectAntennaAreaOffsetUpdate : ret=1
+Formal Part
+Back Part
+Formal Part
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=91.000000, crossArea=0
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a04, angle=91.000000, crossArea=0
+Back Part
+Formal Part
+Back Part
+Formal Part
+AntennaAreaAngleCrossArea : ret=0
+AntennaAreaNodePut : AntennaAreaNode ptr=0x15d0a6c, angle=271.000000, crossArea=0
+Back Part
+AntennaAreaAngleTrack : assist=0, lastAssist=0
+AntennaAreaAngleTrack : assist=0, lastAssist=0
+AntennaAreaAngleTrack : assist=0, lastAssist=0
+AntennaAreaAngleTrack : assist=1, lastAssist=1
+DetectScheduleScheduleProc
+DetectScheduleAntennaNodeExtract
+DetectScheduleTableDataGet
+__DetectScheduleAntennaNodeExtractFormList : isEmpty=1
+__DetectScheduleAntennaNodeExtractFromAntennaArea
+DetectScheduleAntennaNode Print:
+	DetectSearchNode : angle=47.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=93.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=249.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=275.000000, stayPeriod=50, type=1, mask=0, flag=0
+DetectAntennaAreaPrint
+	AntennaAreaNodePrint : crossArea=0
+	DetectSearchNode : angle=45.000000, stayPeriod=50, type=1, mask=0, flag=1
+	DetectSearchNode : angle=45.000000, stayPeriod=50, type=1, mask=0, flag=1
+	DetectSearchNode : angle=47.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=47.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=49.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=49.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=51.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=51.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=53.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=53.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=55.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=55.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=57.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=57.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=59.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=59.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=61.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=61.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=63.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=63.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=65.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=65.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=67.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=67.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=69.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=69.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=71.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=71.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=73.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=73.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=75.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=75.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=77.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=77.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=79.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=79.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=81.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=81.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=83.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=83.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=85.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=85.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=87.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=87.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=89.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=89.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=91.000000, stayPeriod=50, type=1, mask=0, flag=1
+	DetectSearchNode : angle=91.000000, stayPeriod=50, type=1, mask=0, flag=1
+DetectAntennaAreaPrint : color[0]=1
+	AntennaAreaNodePrint : crossArea=0
+	DetectSearchNode : angle=93.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=93.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=95.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=95.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=97.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=97.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=99.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=99.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=101.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=101.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=103.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=103.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=105.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=105.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=107.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=107.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=109.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=109.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=111.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=111.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=113.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=113.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=115.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=115.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=117.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=117.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=119.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=119.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=121.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=121.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=123.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=123.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=125.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=125.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=127.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=127.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=129.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=129.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=131.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=131.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=133.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=133.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=135.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=135.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=137.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=137.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=139.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=139.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=141.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=141.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=143.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=143.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=145.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=145.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=147.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=147.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=149.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=149.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=151.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=151.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=153.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=153.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=155.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=155.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=157.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=157.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=159.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=159.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=161.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=161.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=163.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=163.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=165.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=165.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=167.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=167.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=169.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=169.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=171.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=171.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=173.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=173.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=175.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=175.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=177.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=177.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=179.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=179.000000, stayPeriod=50, type=1, mask=0, flag=0
+DetectAntennaAreaPrint : color[1]=1
+	AntennaAreaNodePrint : crossArea=0
+	DetectSearchNode : angle=245.000000, stayPeriod=50, type=1, mask=0, flag=1
+	DetectSearchNode : angle=247.000000, stayPeriod=50, type=1, mask=0, flag=1
+	DetectSearchNode : angle=249.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=251.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=253.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=255.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=257.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=259.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=261.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=263.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=265.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=267.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=269.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=271.000000, stayPeriod=50, type=1, mask=0, flag=1
+DetectAntennaAreaPrint : color[2]=1
+	AntennaAreaNodePrint : crossArea=1
+	DetectSearchNode : angle=273.000000, stayPeriod=50, type=1, mask=0, flag=1
+	DetectSearchNode : angle=275.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=277.000000, stayPeriod=50, type=1, mask=0, flag=0
+	DetectSearchNode : angle=279.000000, stayPeriod=50, type=1, mask=0, flag=0
+DetectAntennaAreaPrint : color[3]=1
